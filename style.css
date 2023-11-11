@@ -7,7 +7,7 @@ body {
 
 header {
     background-color: #333;
-    color: #fff;
+    color: #fd0505;
     padding: 1em;
     text-align: center;
 }
@@ -45,6 +45,3 @@ footer {
     width: 100%;
 }
 
-.home{
-    background-color: #333;
-}
