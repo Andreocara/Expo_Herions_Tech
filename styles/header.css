@@ -32,7 +32,7 @@
     padding: 1em;
     width: 300px;
     height: 300px;
-    padding-left: 530px;
+    padding-left: 370px;
 }
 
 .lista-menu {
@@ -130,10 +130,6 @@
         display: none;
     }
 
-    .opções__botão:checked~.opções__rotulo>.opções__item {
-        background: var(--azul-degrade);
-        color: var(--branco);
-    }
 
     .opções__item {
         padding: 2em 1em;
