@@ -30,9 +30,9 @@
 
 .container__imagem {
     padding: 1em;
-    width: 300px;
-    height: 300px;
-    padding-left: 370px;
+    width: 250px;
+    height: 250px;
+    padding-left: 325px;
 }
 
 .lista-menu {
@@ -101,6 +101,7 @@
 
     .opções {
         display: flex;
+        PADDING: 121px;
     }
 
     .opções__item {
