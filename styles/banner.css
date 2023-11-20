@@ -60,4 +60,8 @@
     .banner {
         padding: 6em 0;
     }
+
+    .link_site {
+        font-size: 200%;
+    }
 }
