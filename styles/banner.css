@@ -65,5 +65,7 @@
         font-size: 200%;
     }
 
-    .banner__texto_sobre
+    .banner__texto_sobre{
+        font-size: 40px;
+    }
 }
